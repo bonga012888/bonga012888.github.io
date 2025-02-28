@@ -22,8 +22,6 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
- future : true
- published: true
 description              : "An amazing website."
 url                      : "https://bonga012888.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
